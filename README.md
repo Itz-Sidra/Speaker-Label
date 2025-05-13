@@ -11,7 +11,7 @@ This is a Streamlit-based web application for performing speaker separation and 
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.10
 - AssemblyAI API Key
 
 ## File Structure
